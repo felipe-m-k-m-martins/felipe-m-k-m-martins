@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Felipe
 
-<!--
-**felipe-m-k-m-martins/felipe-m-k-m-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build robotic and embedded systems end to end: mechanical design, electronics, firmware and control.
 
-Here are some ideas to get you started:
+Mechatronics Engineering student in a double degree between UTFPR (Brazil) and ENSTA Bretagne (France), specializing in autonomous robotics. Eiffel Excellence Scholar. Ranked 1st of 53 students in my Mechatronics cohort at UTFPR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I have built
+
+| Area | Work | Tools |
+|---|---|---|
+| Embedded and real time | Automated box sorting system: ESP32 and Arduino Mega over I2C, FreeRTOS tasks, web control panel over WebSocket (47/47 cycles) | ESP32, FreeRTOS, C++ |
+| Control and power electronics | Digital 0 to 10 V power supply with deadbeat control (error under 2%), cascaded PI control of a buck converter, 0 to 40 V and 0 to 40 A measurement board | MATLAB, PSIM, EasyEDA |
+| Mechanical design | 3D models and technical drawings of mechanisms, dimensional metrology | SolidWorks, Inventor, GOM Inspect |
+| Research | Undergraduate research on electrical capacitance tomography at CERNN/UTFPR with a Petrobras scholarship, including a published book chapter | MATLAB |
+
+## Now
+
+At ENSTA Bretagne: Kalman filtering, inertial navigation, C++ for robotics and sensor integration (IMU, GPS, PWM servo controller).
+
+## Beyond engineering
+
+890 hours as a teaching assistant in Calculus, Differential Equations and Linear Algebra at UTFPR.
+
+## Languages
+
+Portuguese (native), English (EF SET C1), French (DELF B1)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/felipe-m-k-m-martins)
