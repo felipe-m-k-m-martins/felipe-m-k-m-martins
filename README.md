@@ -17,6 +17,8 @@ Mechatronics Engineering student in a double degree between UTFPR (Brazil) and E
 
 At ENSTA Bretagne: Kalman filtering, inertial navigation, C++ for robotics and sensor integration (IMU, GPS, PWM servo controller).
 
+Team project: SUTURA, a low-cost autonomous suturing robot for ambulances and health posts.
+
 ## Beyond engineering
 
 890 hours as a teaching assistant in Calculus, Differential Equations and Linear Algebra at UTFPR.
