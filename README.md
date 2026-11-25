@@ -8,10 +8,10 @@ Mechatronics Engineering student in a double degree between UTFPR (Brazil) and E
 
 | Area | Work | Tools |
 |---|---|---|
-| Embedded and real time | Automated box sorting system: ESP32 and Arduino Mega over I2C, FreeRTOS tasks, web control panel over WebSocket (47/47 cycles) | ESP32, FreeRTOS, C++ |
-| Control and power electronics | Digital 0 to 10 V power supply with deadbeat control (error under 2%), cascaded PI control of a buck converter, 0 to 40 V and 0 to 40 A measurement board | MATLAB, PSIM, EasyEDA |
+| Embedded and real time | Automated box sorting system: ESP32 and Arduino Mega over I2C, FreeRTOS tasks, web control panel served by the ESP32 | ESP32, FreeRTOS, C++ |
+| Control and power electronics | Digital 0 to 10 V power supply with deadbeat control (steady-state error under 0.5%), cascaded PI control of a buck converter, 0 to 40 V and 0 to 40 A measurement board | MATLAB, PSIM, EasyEDA |
 | Mechanical design | 3D models and technical drawings of mechanisms, dimensional metrology | SolidWorks, Inventor, GOM Inspect |
-| Research | Undergraduate research on electrical capacitance tomography at CERNN/UTFPR with a Petrobras scholarship, including a published book chapter | MATLAB |
+| Research | Undergraduate research on electrical capacitance tomography at CERNN/UTFPR with a Petrobras scholarship, including a published book chapter ([DOI 10.37423/260110613](https://doi.org/10.37423/260110613)) | MATLAB |
 
 ## Now
 
