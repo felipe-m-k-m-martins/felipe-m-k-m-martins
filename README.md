@@ -9,8 +9,8 @@ Mechatronics Engineering student in a double degree between UTFPR (Brazil) and E
 | Area | Work | Tools |
 |---|---|---|
 | Embedded and real time | Automated box sorting system: ESP32 and Arduino Mega over I2C, FreeRTOS tasks, web control panel served by the ESP32 | ESP32, FreeRTOS, C++ |
-| Control and power electronics | Digital 0 to 10 V power supply with deadbeat control (steady-state error under 0.5%), cascaded PI control of a buck converter, 0 to 40 V and 0 to 40 A measurement board | MATLAB, PSIM, EasyEDA |
-| Mechanical design | 3D models and technical drawings of mechanisms, dimensional metrology | SolidWorks, Inventor, GOM Inspect |
+| Control and power electronics | [Digital 0 to 10 V power supply with deadbeat control](https://github.com/felipe-m-k-m-martins/deadbeat-power-supply) (steady-state error under 0.5%), [cascaded PI control of a buck converter and a 0 to 40 V, 0 to 40 A measurement board](https://github.com/felipe-m-k-m-martins/buck-converter-control), [single-phase full-bridge rectifier](https://github.com/felipe-m-k-m-martins/electronics-labs) | MATLAB, PSIM, EasyEDA |
+| Mechanical design | [3D models and technical drawings of an oil pump and a vane compressor](https://github.com/felipe-m-k-m-martins/solidworks-machine-design), [dimensional and geometric metrology](https://github.com/felipe-m-k-m-martins/gom-metrology-analysis) | SolidWorks, Inventor, GOM Inspect |
 | Research | Undergraduate research on electrical capacitance tomography at CERNN/UTFPR with a Petrobras scholarship, including a published book chapter ([DOI 10.37423/260110613](https://doi.org/10.37423/260110613)) | MATLAB |
 
 ## Now
